@@ -73,7 +73,7 @@ body{
 
 #e:hover {
   background-color:#735b20;
-  border: 3px solid #fec02d;
+  cursor: pointer;
 }
 
 #f:hover {
@@ -94,4 +94,33 @@ body{
 #b:hover {
   background-color: #6f3a62;
   cursor: pointer;
+}
+
+/* Active */
+#c:active {
+  background-color: #db1d2d;
+}
+
+#d:active {
+  background-color:#f0421c;
+}
+
+#e:active {
+  background-color: #fec02d;
+}
+
+#f:active {
+  background-color:#20d071;
+}
+
+#g:active {
+  background-color: #1a9ddb;
+}
+
+#a:active {
+  background-color: #a13fad;
+}
+
+#b:active {
+  background-color: #f26fd4;
 }
